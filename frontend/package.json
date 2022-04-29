@@ -12,7 +12,7 @@
     "@stripe/react-stripe-js": "^1.2.2",
     "@stripe/stripe-js": "^1.12.1",
     "axios": "^0.21.0",
-    "cross-fetch": "^3.0.6",
+    "cross-fetch": "^3.1.5",
     "gatsby": "^2.24.61",
     "gatsby-plugin-image": "^1.6.0",
     "gatsby-plugin-manifest": "^2.4.30",
