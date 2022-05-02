@@ -1,4 +1,10 @@
-# A Complete Guide to the JAMstack and React E-Commerce
+# JAMstack and React E-Commerce
+You’re now entering a forked repository. At some point, I must have helped out or maybe I fixed part of its source code or contributed in other ways. The repository is now archived, read at your own risk.
+
+<details>
+  <summary>Find below the original README.md</summary>
+
+  # A Complete Guide to the JAMstack and React E-Commerce
 ![course icon](https://i.ibb.co/TKr3S3v/Course-Icon.png)
 **Get ready to build the most modern, comprehensive, feature-rich, full stack e-commerce platform in any online course!** By the end of this course, _you'll be completely confident in building large applications with complex functionality all on your own._
 
@@ -52,3 +58,5 @@ Along with **lifetime access to over 75 HOURS of content,** you'll also find ea
 You've got nothing to lose -- this course comes with a **30-day money-back guarantee** in case you aren't completely satisfied!
 
 **The JAMstack is the future of web development, so get ahead of the curve and stand out amongst React developers by learning to build powerful, next-generation full stack applications today.**
+
+  </details>
